@@ -1,0 +1,27 @@
+TagNO,Description,Trip Level,High/Low,Date,Time
+LDTT2000,Lower Deck Temperature Sensor Valve1,HH,1,31-01-2023,13:47:25
+LDPT2000,Lower Deck Pressure Transmitter Valve1,HH,1,31-01-2023,13:47:25
+LDPT2001,Lowe Deck Pressure Transmitetr Valve2,HH,1,31-01-2023,13:47:25
+LDPT1000,Lower Deck Pressure Transmitter Vessel1,HH,1,31-01-2023,13:47:25
+LDLT1000,Lower Deck Level Transmitter Vessel1,HH,1,31-01-2023,13:47:25
+LDPT3000,Lowe Deck Pressure Transmitter Pump1,HH,1,31-01-2023,13:47:26
+LDTT1000,Lower Deck Temperature Sensor Vessel1,HH,1,31-01-2023,13:47:25
+LDTT3000,Lower Deck Temperature Sensor Pump1,HH,1,31-01-2023,13:47:26
+LDPT2000,Lower Deck Pressure Transmitter Valve1,HH,1,31-01-2023,13:48:18
+LDTT2000,Lower Deck Temperature Sensor Valve1,HH,1,31-01-2023,13:48:18
+LDPT2001,Lowe Deck Pressure Transmitetr Valve2,HH,1,31-01-2023,13:48:18
+LDTT2001,Lower Deck Temperature Sensor Valve2,HH,0,31-01-2023,13:48:19
+LDPT1000,Lower Deck Pressure Transmitter Vessel1,HH,0,31-01-2023,13:48:19
+LDLT1000,Lower Deck Level Transmitter Vessel1,HH,0,31-01-2023,13:48:19
+LDTT1000,Lower Deck Temperature Sensor Vessel1,HH,0,31-01-2023,13:48:19
+LDPT3000,Lowe Deck Pressure Transmitter Pump1,HH,1,31-01-2023,13:48:19
+LDTT3000,Lower Deck Temperature Sensor Pump1,HH,1,31-01-2023,13:48:19
+LDTT2000,Lower Deck Temperature Sensor Valve1,HH,0,31-01-2023,13:53:01
+LDPT2000,Lower Deck Pressure Transmitter Valve1,HH,1,31-01-2023,13:53:01
+LDPT2001,Lowe Deck Pressure Transmitetr Valve2,HH,0,31-01-2023,13:53:01
+LDTT2001,Lower Deck Temperature Sensor Valve2,HH,0,31-01-2023,13:53:01
+LDPT1000,Lower Deck Pressure Transmitter Vessel1,HH,0,31-01-2023,13:53:01
+LDLT1000,Lower Deck Level Transmitter Vessel1,HH,1,31-01-2023,13:53:01
+LDTT1000,Lower Deck Temperature Sensor Vessel1,HH,0,31-01-2023,13:53:02
+LDPT3000,Lowe Deck Pressure Transmitter Pump1,HH,1,31-01-2023,13:53:02
+LDTT3000,Lower Deck Temperature Sensor Pump1,HH,1,31-01-2023,13:53:02

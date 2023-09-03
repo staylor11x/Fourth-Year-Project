@@ -1,0 +1,544 @@
+TagNO,Description,Trip Level,High/Low,Date,Time
+EDMO6782,East Deck Motor A Coolant Level,L,0,04-01-2023,10:17:31
+LDSD6635,Lower Deck Smoke Detector,HH,1,04-01-2023,10:17:33
+EDSD6637,East Deck Smoke Detector,HH,1,04-01-2023,10:17:36
+EDMO6782,East Deck Motor A Coolant Level,LL,0,04-01-2023,10:17:40
+EDFD6536,East Deck Fire Detector ,HH,0,04-01-2023,10:17:41
+LDHV4563,Lower Deck HVAC B,H,1,04-01-2023,10:17:42
+EDMO6783,East Deck Motor B Coolant Level,LL,1,04-01-2023,10:19:12
+EDHV4564,East Deck HVAC A,H,0,04-01-2023,10:19:13
+EDHV4565,East Deck HVAC B,H,1,04-01-2023,10:19:14
+EDSD6636,East Deck Smoke Detector,HH,1,04-01-2023,10:19:15
+EDMO6783,East Deck Motor B Coolant Level,H,1,04-01-2023,10:24:38
+EDMO6783,East Deck Motor B Coolant Level,HH,1,04-01-2023,10:24:39
+EDMO6783,East Deck Motor B Coolant Level,L,1,04-01-2023,10:24:40
+EDHV4564,East Deck HVAC A,H,1,04-01-2023,10:24:44
+EDMO6783,East Deck Motor B Coolant Level,LL,1,04-01-2023,10:30:39
+EDMO6782,East Deck Motor A Coolant Level,L,1,04-01-2023,10:30:41
+EDSD6636,East Deck Smoke Detector,HH,0,04-01-2023,10:30:46
+EDSD6637,East Deck Smoke Detector,HH,1,04-01-2023,10:30:51
+LDSD6634,Lower Deck Smoke Detector,HH,0,04-01-2023,10:30:53
+LDHV4562,Lower Deck HVAC A,H,0,04-01-2023,10:30:54
+EDMO6782,East Deck Motor A Coolant Level,L,1,04-01-2023,10:30:59
+LDFD6535,Lower Deck Fire Detector ,HH,1,04-01-2023,10:31:03
+LDSD6634,Lower Deck Smoke Detector,HH,0,04-01-2023,10:31:04
+EDMO6783,East Deck Motor B Coolant Level,HH,1,04-01-2023,10:31:05
+EDMO6782,East Deck Motor A Coolant Level,H,1,04-01-2023,10:31:08
+EDFD6536,East Deck Fire Detector ,HH,1,04-01-2023,10:31:11
+LDSD6634,Lower Deck Smoke Detector,HH,1,04-01-2023,10:31:13
+EDMO6782,East Deck Motor A Coolant Level,H,1,04-01-2023,10:31:17
+EDHV4565,East Deck HVAC B,H,0,04-01-2023,10:31:18
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,10:50:51
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,10:50:51
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,10:50:52
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,10:50:52
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,10:50:53
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,10:50:53
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,10:50:54
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,10:50:54
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,10:50:55
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,10:50:55
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,10:50:56
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,10:50:56
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,10:50:57
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,10:50:57
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,10:53:21
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,10:53:21
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,10:53:22
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,10:53:22
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,10:53:23
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,10:53:23
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,10:53:24
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,10:53:24
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,10:53:25
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,10:53:25
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,10:54:30
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,10:54:31
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,10:54:31
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,10:54:32
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,10:54:32
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,10:54:33
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,10:54:33
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,10:54:34
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,10:54:34
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,10:54:35
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:08:01
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:08:01
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:08:02
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:08:02
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:08:03
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:08:03
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:08:04
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:08:04
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:08:05
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:08:05
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:08:06
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:13:18
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:13:18
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:13:19
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:13:19
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:13:20
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:13:20
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:13:21
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:13:21
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:13:22
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:13:22
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:13:23
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:13:23
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:13:24
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:13:24
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:13:48
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:13:48
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:13:49
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:13:49
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:13:50
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,11:13:50
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:13:51
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:13:51
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:13:52
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:13:52
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:13:53
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:24:58
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:24:59
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:24:59
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:25:00
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:25:00
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:25:01
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:25:01
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:25:02
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:25:02
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:25:03
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:25:03
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:25:04
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:25:04
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:25:05
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:25:05
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:25:06
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:25:06
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:25:07
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:25:07
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:25:08
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:25:08
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:25:09
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:30:32
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:30:33
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:30:33
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:30:34
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:30:34
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:30:35
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:30:35
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:30:36
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:30:36
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:30:37
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:31:09
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:31:09
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:31:10
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:31:10
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:31:11
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:31:11
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:31:12
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:31:12
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:31:13
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:34:56
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:34:56
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:34:57
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:34:57
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:34:58
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,11:34:58
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:34:59
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:34:59
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:35:00
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:35:00
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:35:01
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,11:35:01
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:37:33
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:37:34
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:37:34
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:37:35
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:37:35
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,11:37:36
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:37:36
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:37:37
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:37:37
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:43:35
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:43:35
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:43:36
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:43:36
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:43:37
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:43:37
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:43:38
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:43:38
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:43:39
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:43:39
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:43:40
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:43:40
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:44:26
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:44:27
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:44:27
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:44:28
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:44:28
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:45:49
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:45:50
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:46:15
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:46:15
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:46:16
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:46:16
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:46:17
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:46:17
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:46:18
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:46:18
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:46:19
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:46:19
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:46:20
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:46:20
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:49:09
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:49:10
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:49:10
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:49:11
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:49:11
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,11:49:12
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:49:12
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:51:44
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:51:45
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,11:51:45
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:51:46
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:51:46
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,11:51:47
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:52:42
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:52:42
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:52:43
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:52:43
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:53:55
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,11:53:55
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:53:56
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,11:53:56
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,11:53:57
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:53:57
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,11:53:58
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,11:58:04
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,11:58:05
+EDST2345,East Deck Seperator Tank A Pressure,HH,0,04-01-2023,11:58:05
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,11:58:06
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,11:58:06
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,11:58:07
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,12:01:51
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,12:01:52
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,12:01:52
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,12:01:53
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,12:01:53
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,12:01:54
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,12:01:54
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,12:02:51
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,12:02:52
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,12:02:52
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,12:02:53
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,12:02:53
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,12:02:54
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,12:02:55
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,12:02:55
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,12:02:56
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,12:02:56
+EDST3462,East Deck Seperator Tank A Temperature,HH,1,04-01-2023,12:02:57
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,12:02:57
+EDFP2234,East Deck Fuel Pump A Pressure,HH,1,04-01-2023,12:02:58
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,12:02:58
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,12:02:59
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,12:02:59
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,12:03:00
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,12:03:00
+EDFP2234,East Deck Fuel Pump A Pressure,HH,0,04-01-2023,12:03:01
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,12:03:01
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,12:03:02
+EDST2345,East Deck Seperator Tank B Pressure,HH,0,04-01-2023,12:03:02
+EDFP2235,East Deck Fuel Pump B Pressure,H,0,04-01-2023,13:55:40
+EDST3462,East Deck Seperator Tank A Temperature,LL,1,04-01-2023,13:55:42
+EDST2345,East Deck Seperator Tank A Pressure,H,0,04-01-2023,13:55:44
+EDST2345,East Deck Seperator Tank A Pressure,LL,1,04-01-2023,13:55:46
+EDST3463,East Deck Seperator Tank B Temperature,HH,1,04-01-2023,13:55:48
+EDFP2235,East Deck Fuel Pump B Pressure,L,1,04-01-2023,13:55:49
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,13:55:51
+EDST3462,East Deck Seperator Tank A Temperature,L,1,04-01-2023,13:55:55
+EDST2345,East Deck Seperator Tank B Pressure,HH,1,04-01-2023,13:55:58
+EDST2345,East Deck Seperator Tank B Pressure,LL,1,04-01-2023,13:56:02
+EDST3462,East Deck Seperator Tank A Temperature,L,1,04-01-2023,13:56:03
+EDST3462,East Deck Seperator Tank A Temperature,H,0,04-01-2023,13:56:06
+EDST2345,East Deck Seperator Tank A Pressure,L,1,04-01-2023,13:56:09
+EDFP2235,East Deck Fuel Pump B Pressure,HH,0,04-01-2023,13:56:11
+EDST2345,East Deck Seperator Tank B Pressure,LL,1,04-01-2023,13:56:14
+EDFP2235,East Deck Fuel Pump B Pressure,LL,1,04-01-2023,13:56:17
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,13:56:21
+EDFD6537,East Deck Fire Detector ,HH,1,04-01-2023,14:01:52
+EDMO6783,East Deck Motor B Coolant Level,L,1,04-01-2023,14:01:57
+EDMO6782,East Deck Motor A Coolant Level,LL,0,04-01-2023,14:02:01
+EDFD6537,East Deck Fire Detector ,HH,0,04-01-2023,14:02:04
+EDMO6783,East Deck Motor B Coolant Level,LL,1,04-01-2023,14:02:09
+LDSD6635,Lower Deck Smoke Detector,HH,0,04-01-2023,14:02:13
+EDMO6783,East Deck Motor B Coolant Level,L,1,04-01-2023,14:02:14
+EDMO6783,East Deck Motor B Coolant Level,H,0,04-01-2023,14:02:16
+LDHV4562,Lower Deck HVAC A,H,1,04-01-2023,14:02:18
+EDMO6782,East Deck Motor A Coolant Level,LL,0,04-01-2023,14:02:23
+EDFD6536,East Deck Fire Detector ,HH,1,04-01-2023,14:02:25
+EDMO6782,East Deck Motor A Coolant Level,HH,1,04-01-2023,14:02:29
+EDMO6782,East Deck Motor A Coolant Level,LL,1,04-01-2023,14:02:32
+LDSD6634,Lower Deck Smoke Detector,HH,0,04-01-2023,14:02:35
+LDHV4563,Lower Deck HVAC B,H,0,04-01-2023,14:02:38
+EDST2345,East Deck Seperator Tank B Pressure,H,0,04-01-2023,14:11:50
+EDST3463,East Deck Seperator Tank B Temperature,L,0,04-01-2023,14:11:51
+EDST2345,East Deck Seperator Tank A Pressure,H,1,04-01-2023,14:11:54
+EDST2345,East Deck Seperator Tank B Pressure,LL,0,04-01-2023,14:11:58
+EDFP2235,East Deck Fuel Pump B Pressure,LL,0,04-01-2023,14:11:59
+EDST3463,East Deck Seperator Tank B Temperature,H,1,04-01-2023,14:12:02
+EDST2345,East Deck Seperator Tank B Pressure,LL,0,04-01-2023,14:12:05
+EDST2345,East Deck Seperator Tank A Pressure,L,0,04-01-2023,14:12:25
+EDST2345,East Deck Seperator Tank B Pressure,L,1,04-01-2023,14:12:26
+EDST2345,East Deck Seperator Tank A Pressure,H,1,04-01-2023,14:12:28
+EDST3463,East Deck Seperator Tank B Temperature,HH,0,04-01-2023,14:12:31
+EDST2345,East Deck Seperator Tank B Pressure,H,1,04-01-2023,14:12:34
+EDST2345,East Deck Seperator Tank B Pressure,L,0,04-01-2023,14:12:38
+EDST3462,East Deck Seperator Tank A Temperature,HH,0,04-01-2023,14:12:41
+EDFP2235,East Deck Fuel Pump B Pressure,HH,1,04-01-2023,14:12:44
+EDST3462,East Deck Seperator Tank A Temperature,L,0,04-01-2023,14:12:48
+EDST2345,East Deck Seperator Tank A Pressure,HH,1,04-01-2023,14:12:52
+EDFP2235,East Deck Fuel Pump B Pressure,LL,1,04-01-2023,14:12:57
+EDST3463,East Deck Seperator Tank B Temperature,H,0,04-01-2023,14:13:01
+EDST3463,East Deck Seperator Tank B Temperature,L,0,04-01-2023,14:13:02
+LDHV4562,Lower Deck HVAC A,H,0,04-01-2023,14:13:34
+LDFD6535,Lower Deck Fire Detector ,HH,1,04-01-2023,14:13:39
+LDSD6635,Lower Deck Smoke Detector,HH,0,04-01-2023,14:13:41
+EDMO6783,East Deck Motor B Coolant Level,HH,1,04-01-2023,14:13:44
+EDMO6782,East Deck Motor A Coolant Level,LL,1,04-01-2023,14:13:49
+LDHV4562,Lower Deck HVAC A,H,0,04-01-2023,14:13:52
+LDHV4562,Lower Deck HVAC A,H,0,04-01-2023,14:13:57
+EDHV4565,East Deck HVAC B,H,0,04-01-2023,14:14:00
+LDSD6634,Lower Deck Smoke Detector,HH,0,04-01-2023,14:14:03
+LDFD6534,Lower Deck Fire Detector ,HH,0,04-01-2023,14:28:22
+LDFD6535,Lower Deck Fire Detector ,HH,1,04-01-2023,14:28:23
+EDFD6536,East Deck Fire Detector ,HH,0,04-01-2023,14:28:23
+EDFD6537,East Deck Fire Detector ,HH,1,04-01-2023,14:28:24
+LDSD6634,Lower Deck Smoke Detector,HH,0,04-01-2023,14:28:24
+LDSD6635,Lower Deck Smoke Detector,HH,0,04-01-2023,14:28:25
+EDSD6636,East Deck Smoke Detector,HH,1,04-01-2023,14:28:25
+EDSD6637,East Deck Smoke Detector,HH,0,04-01-2023,14:28:26
+LDHV4562,Lower Deck HVAC A,HH,0,04-01-2023,14:28:26
+LDFD6534,Lower Deck Fire Detector ,HH,1,04-01-2023,14:29:07
+LDFD6535,Lower Deck Fire Detector ,HH,1,04-01-2023,14:29:08
+EDFD6536,East Deck Fire Detector ,HH,0,04-01-2023,14:29:09
+EDFD6537,East Deck Fire Detector ,HH,1,04-01-2023,14:29:09
+LDSD6634,Lower Deck Smoke Detector,HH,1,04-01-2023,14:29:10
+LDSD6635,Lower Deck Smoke Detector,HH,0,04-01-2023,14:29:10
+EDSD6636,East Deck Smoke Detector,HH,0,04-01-2023,14:29:11
+EDSD6637,East Deck Smoke Detector,HH,1,04-01-2023,14:29:11
+LDHV4562,Lower Deck HVAC A,HH,0,04-01-2023,14:29:12
+LDHV4563,Lower Deck HVAC B,HH,0,04-01-2023,14:29:12
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,14:29:13
+EDHV4565,East Deck HVAC B,HH,1,04-01-2023,14:29:13
+EDMO6782,East Deck Motor A Coolant Level,HH,1,04-01-2023,14:29:14
+LDFD6534,Lower Deck Fire Detector ,HH,1,04-01-2023,14:29:36
+LDFD6535,Lower Deck Fire Detector ,HH,1,04-01-2023,14:29:37
+EDFD6536,East Deck Fire Detector ,HH,0,04-01-2023,14:29:38
+EDFD6537,East Deck Fire Detector ,HH,1,04-01-2023,14:29:39
+LDSD6634,Lower Deck Smoke Detector,HH,1,04-01-2023,14:29:40
+LDSD6635,Lower Deck Smoke Detector,HH,1,04-01-2023,14:29:41
+EDSD6636,East Deck Smoke Detector,HH,0,04-01-2023,14:29:42
+EDSD6637,East Deck Smoke Detector,HH,1,04-01-2023,14:29:43
+LDHV4562,Lower Deck HVAC A,HH,0,04-01-2023,14:29:44
+LDHV4563,Lower Deck HVAC B,HH,1,04-01-2023,14:29:45
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,14:29:47
+LDFD6524,Lower Deck Fire Detector ,HH,1,04-01-2023,14:37:24
+LDFD6525,Lower Deck Fire Detector ,HH,0,04-01-2023,14:37:25
+EDFD6526,East Deck Fire Detector ,HH,0,04-01-2023,14:37:26
+EDFD6527,East Deck Fire Detector ,HH,1,04-01-2023,14:37:27
+LDSD6624,Lower Deck Smoke Detector,HH,0,04-01-2023,14:37:28
+LDSD6625,Lower Deck Smoke Detector,HH,0,04-01-2023,14:37:29
+EDSD6626,East Deck Smoke Detector,HH,1,04-01-2023,14:37:30
+EDSD6627,East Deck Smoke Detector,HH,1,04-01-2023,14:37:31
+LDHV4562,Lower Deck HVAC A,HH,0,04-01-2023,14:37:32
+LDHV4562,Lower Deck HVAC B,HH,1,04-01-2023,14:37:33
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,14:37:34
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,14:38:54
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,14:38:55
+EDFD6516,East Deck Fire Detector ,HH,0,04-01-2023,14:38:56
+EDFD6517,East Deck Fire Detector ,HH,1,04-01-2023,14:38:57
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,14:38:58
+LDSD6615,Lower Deck Smoke Detector,HH,1,04-01-2023,14:38:59
+EDSD6616,East Deck Smoke Detector,HH,0,04-01-2023,14:39:00
+EDSD6617,East Deck Smoke Detector,HH,0,04-01-2023,14:39:01
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,14:39:02
+LDHV4561,Lower Deck HVAC B,HH,0,04-01-2023,14:39:03
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,14:39:04
+EDHV4565,East Deck HVAC B,HH,1,04-01-2023,14:39:05
+EDMO6781,East Deck Motor A Coolant Level,HH,0,04-01-2023,14:39:06
+LDFD6524,Lower Deck Fire Detector ,HH,0,04-01-2023,14:43:44
+LDFD6525,Lower Deck Fire Detector ,HH,1,04-01-2023,14:43:45
+EDFD6526,East Deck Fire Detector ,HH,0,04-01-2023,14:43:46
+EDFD6527,East Deck Fire Detector ,HH,1,04-01-2023,14:43:47
+LDSD6624,Lower Deck Smoke Detector,HH,1,04-01-2023,14:43:48
+LDFD6524,Lower Deck Fire Detector ,HH,1,04-01-2023,14:51:22
+LDFD6524,Lower Deck Fire Detector ,HH,0,04-01-2023,14:56:35
+LDFD6525,Lower Deck Fire Detector ,HH,1,04-01-2023,14:56:36
+EDFD6526,East Deck Fire Detector ,HH,0,04-01-2023,14:56:37
+EDFD6527,East Deck Fire Detector ,HH,0,04-01-2023,14:56:38
+LDSD6624,Lower Deck Smoke Detector,HH,1,04-01-2023,14:56:39
+LDSD6625,Lower Deck Smoke Detector,HH,1,04-01-2023,14:56:40
+EDSD6626,East Deck Smoke Detector,HH,0,04-01-2023,14:56:41
+EDSD6627,East Deck Smoke Detector,HH,1,04-01-2023,14:56:42
+LDHV4562,Lower Deck HVAC A,HH,1,04-01-2023,14:56:43
+LDHV4562,Lower Deck HVAC B,HH,1,04-01-2023,14:56:44
+LDFD6524,Lower Deck Fire Detector ,HH,1,04-01-2023,15:01:18
+LDFD6525,Lower Deck Fire Detector ,HH,1,04-01-2023,15:01:19
+EDFD6526,East Deck Fire Detector ,HH,0,04-01-2023,15:01:20
+EDFD6527,East Deck Fire Detector ,HH,0,04-01-2023,15:01:21
+LDSD6624,Lower Deck Smoke Detector,HH,1,04-01-2023,15:01:22
+LDSD6625,Lower Deck Smoke Detector,HH,1,04-01-2023,15:01:23
+EDSD6626,East Deck Smoke Detector,HH,1,04-01-2023,15:01:24
+EDSD6627,East Deck Smoke Detector,HH,1,04-01-2023,15:01:25
+LDHV4562,Lower Deck HVAC A,HH,0,04-01-2023,15:01:26
+LDHV4562,Lower Deck HVAC B,HH,1,04-01-2023,15:01:27
+EDHV4564,East Deck HVAC A,HH,1,04-01-2023,15:01:28
+LDFD6524,Lower Deck Fire Detector ,HH,1,04-01-2023,15:03:39
+LDFD6525,Lower Deck Fire Detector ,HH,0,04-01-2023,15:03:40
+EDFD6526,East Deck Fire Detector ,HH,0,04-01-2023,15:03:41
+EDFD6527,East Deck Fire Detector ,HH,1,04-01-2023,15:03:42
+LDSD6624,Lower Deck Smoke Detector,HH,1,04-01-2023,15:03:43
+LDSD6625,Lower Deck Smoke Detector,HH,0,04-01-2023,15:03:44
+EDSD6626,East Deck Smoke Detector,HH,1,04-01-2023,15:03:45
+EDSD6627,East Deck Smoke Detector,HH,1,04-01-2023,15:03:46
+LDHV4562,Lower Deck HVAC A,HH,1,04-01-2023,15:03:47
+LDHV4562,Lower Deck HVAC B,HH,1,04-01-2023,15:03:48
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,15:03:49
+LDFD6534,Lower Deck Fire Detector ,HH,1,04-01-2023,15:05:30
+LDFD6535,Lower Deck Fire Detector ,HH,1,04-01-2023,15:05:31
+EDFD6536,East Deck Fire Detector ,HH,1,04-01-2023,15:05:32
+EDFD6537,East Deck Fire Detector ,HH,1,04-01-2023,15:05:33
+LDSD6634,Lower Deck Smoke Detector,HH,0,04-01-2023,15:05:35
+LDSD6635,Lower Deck Smoke Detector,HH,0,04-01-2023,15:05:36
+EDSD6636,East Deck Smoke Detector,HH,1,04-01-2023,15:05:37
+EDSD6637,East Deck Smoke Detector,HH,1,04-01-2023,15:05:38
+LDHV4563,Lower Deck HVAC A,HH,0,04-01-2023,15:05:39
+LDHV4563,Lower Deck HVAC B,HH,1,04-01-2023,15:05:40
+EDHV4564,East Deck HVAC A,HH,1,04-01-2023,15:05:41
+EDHV4565,East Deck HVAC B,HH,0,04-01-2023,15:05:42
+EDMO6783,East Deck Motor A Coolant Level,HH,1,04-01-2023,15:05:43
+LDFD6514,Lower Deck Fire Detector ,HH,0,04-01-2023,15:21:26
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:21:27
+EDFD6516,East Deck Fire Detector ,HH,0,04-01-2023,15:21:28
+EDFD6517,East Deck Fire Detector ,HH,0,04-01-2023,15:21:29
+LDSD6614,Lower Deck Smoke Detector,HH,1,04-01-2023,15:21:30
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:21:31
+EDSD6616,East Deck Smoke Detector,HH,0,04-01-2023,15:21:32
+EDSD6617,East Deck Smoke Detector,HH,0,04-01-2023,15:21:33
+LDHV4561,Lower Deck HVAC A,HH,0,04-01-2023,15:21:34
+LDHV4561,Lower Deck HVAC B,HH,1,04-01-2023,15:21:35
+LDFD6514,Lower Deck Fire Detector ,HH,0,04-01-2023,15:30:11
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:30:12
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:30:13
+EDFD6517,East Deck Fire Detector ,HH,1,04-01-2023,15:30:14
+LDSD6614,Lower Deck Smoke Detector,HH,1,04-01-2023,15:30:15
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:30:16
+EDSD6616,East Deck Smoke Detector,HH,0,04-01-2023,15:30:17
+EDSD6617,East Deck Smoke Detector,HH,1,04-01-2023,15:30:18
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,15:30:19
+LDHV4561,Lower Deck HVAC B,HH,1,04-01-2023,15:30:20
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,15:30:21
+EDHV4565,East Deck HVAC B,HH,1,04-01-2023,15:30:22
+EDMO6781,East Deck Motor A Coolant Level,HH,1,04-01-2023,15:30:23
+EDMO6781,East Deck Motor B Coolant Level,HH,0,04-01-2023,15:30:24
+LDFD6514,Lower Deck Fire Detector ,HH,0,04-01-2023,15:30:25
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:30:26
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:30:27
+EDFD6517,East Deck Fire Detector ,HH,0,04-01-2023,15:30:28
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,15:30:29
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:30:30
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,15:34:24
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:34:25
+EDFD6516,East Deck Fire Detector ,HH,0,04-01-2023,15:34:26
+EDFD6517,East Deck Fire Detector ,HH,0,04-01-2023,15:34:27
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,15:34:28
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:34:29
+EDSD6616,East Deck Smoke Detector,HH,0,04-01-2023,15:34:30
+EDSD6617,East Deck Smoke Detector,HH,0,04-01-2023,15:34:31
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,15:34:32
+LDHV4561,Lower Deck HVAC B,HH,0,04-01-2023,15:34:33
+EDHV4564,East Deck HVAC A,HH,1,04-01-2023,15:34:34
+EDHV4565,East Deck HVAC B,HH,0,04-01-2023,15:34:35
+EDMO6781,East Deck Motor A Coolant Level,HH,1,04-01-2023,15:34:36
+EDMO6781,East Deck Motor B Coolant Level,HH,0,04-01-2023,15:34:37
+LDFD6514,Lower Deck Fire Detector ,HH,0,04-01-2023,15:34:38
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:34:39
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:34:40
+EDFD6517,East Deck Fire Detector ,HH,1,04-01-2023,15:34:41
+LDSD6614,Lower Deck Smoke Detector,HH,1,04-01-2023,15:34:42
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:34:43
+EDSD6616,East Deck Smoke Detector,HH,1,04-01-2023,15:34:44
+EDSD6617,East Deck Smoke Detector,HH,1,04-01-2023,15:34:45
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,15:34:46
+LDFD6514,Lower Deck Fire Detector ,HH,0,04-01-2023,15:36:50
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:36:51
+EDFD6516,East Deck Fire Detector ,HH,0,04-01-2023,15:36:52
+EDFD6517,East Deck Fire Detector ,HH,0,04-01-2023,15:36:53
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,15:36:54
+LDSD6615,Lower Deck Smoke Detector,HH,1,04-01-2023,15:36:55
+EDSD6616,East Deck Smoke Detector,HH,1,04-01-2023,15:36:56
+EDSD6617,East Deck Smoke Detector,HH,1,04-01-2023,15:36:57
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,15:36:58
+LDHV4561,Lower Deck HVAC B,HH,1,04-01-2023,15:36:59
+EDHV4564,East Deck HVAC A,HH,1,04-01-2023,15:37:00
+EDHV4565,East Deck HVAC B,HH,0,04-01-2023,15:37:01
+EDMO6781,East Deck Motor A Coolant Level,HH,1,04-01-2023,15:37:02
+EDMO6781,East Deck Motor B Coolant Level,HH,1,04-01-2023,15:37:03
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,15:38:58
+LDFD6515,Lower Deck Fire Detector ,HH,0,04-01-2023,15:38:59
+EDFD6516,East Deck Fire Detector ,HH,0,04-01-2023,15:39:00
+EDFD6517,East Deck Fire Detector ,HH,1,04-01-2023,15:39:01
+LDSD6614,Lower Deck Smoke Detector,HH,1,04-01-2023,15:39:02
+LDSD6615,Lower Deck Smoke Detector,HH,1,04-01-2023,15:39:03
+EDSD6616,East Deck Smoke Detector,HH,1,04-01-2023,15:39:04
+EDSD6617,East Deck Smoke Detector,HH,1,04-01-2023,15:39:05
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,15:39:06
+LDHV4561,Lower Deck HVAC B,HH,0,04-01-2023,15:39:07
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,15:39:08
+EDHV4565,East Deck HVAC B,HH,0,04-01-2023,15:39:09
+EDMO6781,East Deck Motor A Coolant Level,HH,0,04-01-2023,15:39:10
+EDMO6781,East Deck Motor B Coolant Level,HH,1,04-01-2023,15:39:11
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,15:39:12
+LDFD6515,Lower Deck Fire Detector ,HH,0,04-01-2023,15:39:14
+EDFD6516,East Deck Fire Detector ,HH,0,04-01-2023,15:39:15
+LDFD6514,Lower Deck Fire Detector ,HH,0,04-01-2023,15:42:33
+LDFD6515,Lower Deck Fire Detector ,HH,0,04-01-2023,15:42:34
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:42:35
+EDFD6517,East Deck Fire Detector ,HH,1,04-01-2023,15:42:36
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,15:42:37
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:42:38
+EDSD6616,East Deck Smoke Detector,HH,1,04-01-2023,15:42:39
+EDSD6617,East Deck Smoke Detector,HH,1,04-01-2023,15:42:40
+LDHV4561,Lower Deck HVAC A,HH,1,04-01-2023,15:42:41
+LDHV4561,Lower Deck HVAC B,HH,1,04-01-2023,15:42:42
+EDHV4564,East Deck HVAC A,HH,0,04-01-2023,15:42:43
+EDHV4565,East Deck HVAC B,HH,0,04-01-2023,15:42:44
+EDMO6781,East Deck Motor A Coolant Level,HH,1,04-01-2023,15:42:45
+EDMO6781,East Deck Motor B Coolant Level,HH,1,04-01-2023,15:42:46
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,15:42:47
+LDFD6515,Lower Deck Fire Detector ,HH,1,04-01-2023,15:42:48
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:42:49
+EDFD6517,East Deck Fire Detector ,HH,0,04-01-2023,15:42:50
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,15:42:51
+LDSD6615,Lower Deck Smoke Detector,HH,0,04-01-2023,15:42:52
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,15:44:38
+LDFD6515,Lower Deck Fire Detector ,HH,0,04-01-2023,15:44:39
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:44:40
+EDFD6517,East Deck Fire Detector ,HH,0,04-01-2023,15:44:41
+LDSD6614,Lower Deck Smoke Detector,HH,0,04-01-2023,15:44:42
+LDSD6615,Lower Deck Smoke Detector,HH,1,04-01-2023,15:44:43
+EDSD6616,East Deck Smoke Detector,HH,1,04-01-2023,15:44:44
+EDSD6617,East Deck Smoke Detector,HH,0,04-01-2023,15:44:45
+LDHV4561,Lower Deck HVAC A,HH,0,04-01-2023,15:44:46
+LDHV4561,Lower Deck HVAC B,HH,0,04-01-2023,15:44:47
+EDHV4564,East Deck HVAC A,HH,1,04-01-2023,15:44:48
+EDHV4565,East Deck HVAC B,HH,1,04-01-2023,15:44:49
+EDMO6781,East Deck Motor A Coolant Level,HH,1,04-01-2023,15:44:50
+EDMO6781,East Deck Motor B Coolant Level,HH,0,04-01-2023,15:44:51
+LDFD6514,Lower Deck Fire Detector ,HH,1,04-01-2023,15:44:52
+LDFD6515,Lower Deck Fire Detector ,HH,0,04-01-2023,15:44:53
+EDFD6516,East Deck Fire Detector ,HH,1,04-01-2023,15:44:54
+EDFD6517,East Deck Fire Detector ,HH,1,04-01-2023,15:44:55
+LDSD6614,Lower Deck Smoke Detector,HH,1,04-01-2023,15:44:56

@@ -1,0 +1,112 @@
+TagNO,Description,Trip Level,High/Low,Date,Time
+LDHV4562,Lower Deck HVAC A,H,0,18-01-2023,09:32:40
+EDMO6783,East Deck Motor B Coolant Level,H,1,18-01-2023,09:35:07
+EDMO6782,East Deck Motor A Coolant Level,LL,0,18-01-2023,09:39:28
+EDMO6782,East Deck Motor A Coolant Level,LL,0,18-01-2023,09:39:33
+EDMO6783,East Deck Motor B Coolant Level,HH,0,18-01-2023,09:39:36
+EDMO6782,East Deck Motor A Coolant Level,HH,0,18-01-2023,09:39:39
+EDFD6537,East Deck Fire Detector ,HH,0,18-01-2023,09:39:42
+EDFD6536,East Deck Fire Detector ,HH,0,18-01-2023,09:40:27
+EDMO6783,East Deck Motor B Coolant Level,L,1,18-01-2023,09:40:30
+EDMO6782,East Deck Motor A Coolant Level,L,1,18-01-2023,09:40:33
+EDMO6783,East Deck Motor B Coolant Level,HH,0,18-01-2023,10:02:05
+EDFD6537,East Deck Fire Detector ,HH,1,18-01-2023,10:02:07
+LDSD6634,Lower Deck Smoke Detector,HH,1,18-01-2023,10:02:09
+LDHV4562,Lower Deck HVAC A,H,1,18-01-2023,10:02:12
+EDMO6782,East Deck Motor A Coolant Level,L,1,18-01-2023,10:02:15
+LDFD6535,Lower Deck Fire Detector ,HH,1,18-01-2023,10:02:20
+LDFD6535,Lower Deck Fire Detector ,HH,1,18-01-2023,10:02:23
+EDFD6537,East Deck Fire Detector ,HH,1,18-01-2023,10:02:26
+EDMO6783,East Deck Motor B Coolant Level,LL,0,18-01-2023,10:02:31
+EDMO6782,East Deck Motor A Coolant Level,L,0,18-01-2023,10:02:33
+EDSD6637,East Deck Smoke Detector,HH,1,18-01-2023,10:02:35
+LDFD6535,Lower Deck Fire Detector ,HH,0,18-01-2023,10:02:37
+EDHV4564,East Deck HVAC A,H,0,18-01-2023,10:02:40
+LDFD6535,Lower Deck Fire Detector ,HH,0,18-01-2023,10:02:45
+LDHV4562,Lower Deck HVAC A,H,1,18-01-2023,10:02:47
+EDHV4564,East Deck HVAC A,H,0,18-01-2023,10:02:50
+EDFD6536,East Deck Fire Detector ,HH,0,18-01-2023,10:03:51
+EDMO6782,East Deck Motor A Coolant Level,L,1,18-01-2023,10:03:56
+EDFD6536,East Deck Fire Detector ,HH,1,18-01-2023,10:04:01
+EDMO6782,East Deck Motor A Coolant Level,HH,0,18-01-2023,10:04:13
+EDHV4564,East Deck HVAC A,H,0,18-01-2023,10:04:15
+EDMO6782,East Deck Motor A Coolant Level,H,1,18-01-2023,11:24:54
+EDSD6636,East Deck Smoke Detector,HH,0,18-01-2023,11:24:56
+LDSD6635,Lower Deck Smoke Detector,HH,0,18-01-2023,11:25:01
+EDMO6782,East Deck Motor A Coolant Level,LL,1,18-01-2023,11:25:49
+EDMO6783,East Deck Motor B Coolant Level,H,0,18-01-2023,11:25:54
+EDHV4564,East Deck HVAC A,H,0,18-01-2023,11:29:37
+EDMO6782,East Deck Motor A Coolant Level,L,1,18-01-2023,11:29:40
+LDSD6635,Lower Deck Smoke Detector,HH,0,18-01-2023,11:30:26
+EDHV4564,East Deck HVAC A,H,0,18-01-2023,11:30:31
+EDSD6636,East Deck Smoke Detector,HH,0,18-01-2023,11:30:35
+LDHV4563,Lower Deck HVAC B,H,0,18-01-2023,11:30:38
+LDHV4562,Lower Deck HVAC A,H,0,18-01-2023,11:30:42
+EDMO6783,East Deck Motor B Coolant Level,L,1,18-01-2023,11:31:09
+EDMO6782,East Deck Motor A Coolant Level,H,0,18-01-2023,11:31:13
+EDSD6636,East Deck Smoke Detector,HH,1,18-01-2023,14:07:41
+LDHV4563,Lower Deck HVAC B,H,1,18-01-2023,14:07:46
+EDMO6782,East Deck Motor A Coolant Level,HH,0,18-01-2023,14:07:50
+EDMO6782,East Deck Motor A Coolant Level,HH,0,18-01-2023,14:07:55
+EDMO6783,East Deck Motor B Coolant Level,L,1,18-01-2023,14:07:57
+EDHV4564,East Deck HVAC A,H,1,18-01-2023,19:28:52
+LDSD6635,Lower Deck Smoke Detector,HH,1,18-01-2023,19:29:13
+EDMO6782,East Deck Motor A Coolant Level,HH,1,18-01-2023,19:29:15
+EDMO6783,East Deck Motor B Coolant Level,H,0,18-01-2023,19:29:18
+EDFD6537,East Deck Fire Detector ,HH,0,18-01-2023,19:29:19
+EDHV4565,East Deck HVAC B,H,1,18-01-2023,19:29:24
+EDSD6637,East Deck Smoke Detector,HH,0,18-01-2023,19:45:23
+EDMO6782,East Deck Motor A Coolant Level,H,0,18-01-2023,19:47:15
+EDFD6536,East Deck Fire Detector ,HH,1,18-01-2023,19:49:50
+EDFD6537,East Deck Fire Detector ,HH,1,18-01-2023,20:08:30
+LDSD6634,Lower Deck Smoke Detector,HH,1,18-01-2023,20:08:31
+EDSD6637,East Deck Smoke Detector,HH,1,18-01-2023,20:16:56
+EDMO6783,East Deck Motor B Coolant Level,LL,0,18-01-2023,20:24:42
+EDMO6782,East Deck Motor A Coolant Level,HH,0,18-01-2023,20:24:43
+LDHV4562,Lower Deck HVAC A,H,0,18-01-2023,20:25:43
+EDMO6782,East Deck Motor A Coolant Level,LL,0,18-01-2023,20:25:45
+LDFD6535,Lower Deck Fire Detector ,HH,1,18-01-2023,20:25:50
+EDMO6782,East Deck Motor A Coolant Level,LL,0,18-01-2023,20:25:52
+EDFD6536,East Deck Fire Detector ,HH,0,18-01-2023,20:29:41
+EDSD6636,East Deck Smoke Detector,HH,0,18-01-2023,20:29:44
+LDSD6634,Lower Deck Smoke Detector,HH,0,18-01-2023,20:29:45
+LDHV4563,Lower Deck HVAC B,H,0,18-01-2023,20:29:48
+EDSD6637,East Deck Smoke Detector,HH,0,18-01-2023,20:29:50
+EDMO6783,East Deck Motor B Coolant Level,H,1,18-01-2023,20:29:51
+EDHV4565,East Deck HVAC B,H,1,18-01-2023,20:30:09
+LDSD6635,Lower Deck Smoke Detector,HH,1,18-01-2023,20:30:11
+EDFD6536,East Deck Fire Detector ,HH,1,18-01-2023,20:31:13
+LDHV4563,Lower Deck HVAC B,H,0,18-01-2023,20:31:16
+EDMO6782,East Deck Motor A Coolant Level,L,0,18-01-2023,20:31:41
+EDMO6783,East Deck Motor B Coolant Level,LL,1,18-01-2023,20:31:42
+EDMO6782,East Deck Motor A Coolant Level,LL,1,18-01-2023,20:32:07
+EDFD6537,East Deck Fire Detector ,HH,0,18-01-2023,20:32:18
+LDSD6635,Lower Deck Smoke Detector,HH,1,18-01-2023,20:32:19
+EDHV4564,East Deck HVAC A,H,0,18-01-2023,20:32:24
+LDSD6634,Lower Deck Smoke Detector,HH,1,18-01-2023,21:17:15
+EDSD6636,East Deck Smoke Detector,HH,1,18-01-2023,21:17:16
+LDHV4562,Lower Deck HVAC A,H,0,18-01-2023,21:17:20
+EDSD6637,East Deck Smoke Detector,HH,0,18-01-2023,21:17:21
+EDMO6782,East Deck Motor A Coolant Level,H,0,18-01-2023,21:17:25
+EDMO6783,East Deck Motor B Coolant Level,LL,1,18-01-2023,21:17:26
+LDHV4563,Lower Deck HVAC B,H,1,18-01-2023,21:20:38
+EDFD6537,East Deck Fire Detector ,HH,1,18-01-2023,21:20:43
+LDFD6535,Lower Deck Fire Detector ,HH,1,18-01-2023,21:20:48
+LDFD6535,Lower Deck Fire Detector ,HH,1,18-01-2023,21:21:18
+EDFD6537,East Deck Fire Detector ,HH,0,18-01-2023,21:21:19
+EDMO6782,East Deck Motor A Coolant Level,L,0,18-01-2023,21:21:23
+LDSD6634,Lower Deck Smoke Detector,HH,1,18-01-2023,21:21:25
+EDMO6782,East Deck Motor A Coolant Level,L,1,18-01-2023,21:22:43
+EDMO6782,East Deck Motor A Coolant Level,H,0,18-01-2023,21:22:44
+EDMO6782,East Deck Motor A Coolant Level,HH,1,18-01-2023,21:22:45
+EDMO6782,East Deck Motor A Coolant Level,HH,0,18-01-2023,21:22:47
+EDMO6783,East Deck Motor B Coolant Level,H,0,18-01-2023,21:22:48
+LDFD6535,Lower Deck Fire Detector ,HH,0,18-01-2023,21:38:31
+LDHV4563,Lower Deck HVAC B,H,0,18-01-2023,21:38:36
+EDMO6783,East Deck Motor B Coolant Level,L,0,18-01-2023,21:38:37
+LDHV4563,Lower Deck HVAC B,H,0,18-01-2023,21:39:39
+EDMO6783,East Deck Motor B Coolant Level,HH,1,18-01-2023,21:39:40
+EDHV4565,East Deck HVAC B,H,0,18-01-2023,21:47:22
+EDHV4565,East Deck HVAC B,H,0,18-01-2023,21:47:24
+EDSD6637,East Deck Smoke Detector,HH,0,18-01-2023,21:47:25
+EDMO6783,East Deck Motor B Coolant Level,H,0,18-01-2023,21:47:27

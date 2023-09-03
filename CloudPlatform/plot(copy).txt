@@ -1,0 +1,80 @@
+//const feedDisplay = document.querySelector('#feed')
+
+const sendHTTPRequest = (method, url, data) =>{
+
+    const promise = new Promise((resolve, reject) => {
+        const xhr = new XMLHttpRequest();
+        xhr.open(method, url);
+
+        xhr.responseType = 'json'
+        if(data){
+            xhr.setRequestHeader('Content-Type', 'application/json');
+        }    
+        
+        xhr.onload = () => {
+            resolve(xhr.response);
+        };
+        xhr.send(JSON.stringify(data));
+    });
+    return promise;
+}
+
+const getData = () => {
+    sendHTTPRequest('GET', 'http://localhost:8000/').then(responseData => {
+        console.log("the data", responseData)
+    })
+}
+
+const sendData = () => {
+    sendHTTPRequest('POST', 'http://localhost:8000/data', {
+        starDate: date1, 
+        endDate: date2 
+    }).then(responseData => {
+        console.log(responseData);
+    });
+    
+};
+
+var date1 = document.getElementById('startDate');
+var date2 = document.getElementById('endDate')
+const submitBtn = document.getElementById('submit')
+submitBtn.addEventListener('click', sendData)
+
+
+fetch('http://localhost:8000/')
+    .then(response => response.json())
+    .then(data => { //use the data and plot the graph
+
+        let xaxis = []
+        let yaxis = []
+
+        console.log(data.length)
+
+        for(i=0; i<data.length; i++){
+            xaxis.push(data[i].X)
+            yaxis.push(data[i].Y)
+        }
+
+            var Graphdata = [
+                {
+                    x:xaxis,
+                    y:yaxis,
+                    type:"bar"
+                }
+            ]
+            console.log(Graphdata)
+
+            var layout = {
+                xaxis:{title:"Tag Numbers"},
+                yaxis:{title:"Number of trips"},
+                title: "Tag numbers vs Np. of trips"
+            };
+
+            Plotly.newPlot("My Plot", Graphdata, layout)
+        })
+
+fetch('http://localhost:8000/'{
+    method:'POST',
+    headers
+})
+    

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-2.18.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="src/style.css">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Alarm Analysis Dashboard</h1>
+    <img src="https://ecareersgrad.co.uk/wp-content/uploads/2022/07/RGU-logo-1.png" class="centre">
+    <div id="TagData"></div>
+    <h4>Select Date</h4>
+    <p>Date From</p>
+    <input id ="startDate", type="date">
+    <p>Date To</p>
+    <input id ="endDate", type="date">
+
+
+
+    
+
+    <div id="DayData"></div>
+
+    <div id="TopTenData"></div><div id="AreaData"></div>
+   
+    <div id="TimeData"></div>
+
+    <div id="SingleAlarmData"></div>
+    <h4>Select Tag Numbers to Compare:</h4>
+    <select id="tag1" class="dropdown">
+        <option value="">Tag No.</option>
+        <option value="LDPT2000">LDPT2000</option>
+        <option value="LDTT2000">LDTT2000</option>
+        <option value="LDPT2001">LDPT2001</option>
+        <option value="LDTT2001">LDTT2001</option>
+        <option value="LDPT2002">LDPT2002</option>
+        <option value="LDTT2002">LDTT2002</option>
+        <option value="LDPT2003">LDPT2003</option>
+        <option value="LDTT2003">LDTT2003</option>
+        <option value="LDPT1000">LDPT1000</option>
+        <option value="LDLT1000">LDLT1000</option>
+        <option value="LDTT1000">LDTT1000</option>
+        <option value="LDPT1001">LDPT1001</option>
+        <option value="LDLT1001">LDLT1001</option>
+        <option value="LDTT1001">LDTT1001</option>
+        <option value="LDPT3000">LDPT3000</option>
+        <option value="LDTT3000">LDTT3000</option>
+        <option value="EDSD1000">EDSD1000</option>
+        <option value="EDSD1001">EDSD1001</option>
+        <option value="EDSD1002">EDSD1002</option>
+        <option value="EDSD1003">EDSD1003</option>
+        <option value="EDSD1004">EDSD1004</option>
+        <option value="EDSD1005">EDSD1005</option>
+        <option value="EDSD1006">EDSD1006</option>
+        <option value="EDSD1007">EDSD1007</option>
+        <option value="EDSD1008">EDSD1008</option>
+        <option value="EDSD1009">EDSD1009</option>
+        <option value="EDFD2000">EDFD2000</option>
+        <option value="EDFD2001">EDFD2001</option>
+        <option value="EDFD2002">EDFD2002</option>
+        <option value="EDHV3000">EDHV3000</option>
+        <option value="EDHV3001">EDHV3001</option>
+      </select>
+    <select id="tag2" class="dropdown">
+        <option value="">Tag No.</option>
+        <option value="LDPT2000">LDPT2000</option>
+        <option value="LDTT2000">LDTT2000</option>
+        <option value="LDPT2001">LDPT2001</option>
+        <option value="LDTT2001">LDTT2001</option>
+        <option value="LDPT2002">LDPT2002</option>
+        <option value="LDTT2002">LDTT2002</option>
+        <option value="LDPT2003">LDPT2003</option>
+        <option value="LDTT2003">LDTT2003</option>
+        <option value="LDPT1000">LDPT1000</option>
+        <option value="LDLT1000">LDLT1000</option>
+        <option value="LDTT1000">LDTT1000</option>
+        <option value="LDPT1001">LDPT1001</option>
+        <option value="LDLT1001">LDLT1001</option>
+        <option value="LDTT1001">LDTT1001</option>
+        <option value="LDPT3000">LDPT3000</option>
+        <option value="LDTT3000">LDTT3000</option>
+        <option value="EDSD1000">EDSD1000</option>
+        <option value="EDSD1001">EDSD1001</option>
+        <option value="EDSD1002">EDSD1002</option>
+        <option value="EDSD1003">EDSD1003</option>
+        <option value="EDSD1004">EDSD1004</option>
+        <option value="EDSD1005">EDSD1005</option>
+        <option value="EDSD1006">EDSD1006</option>
+        <option value="EDSD1007">EDSD1007</option>
+        <option value="EDSD1008">EDSD1008</option>
+        <option value="EDSD1009">EDSD1009</option>
+        <option value="EDFD2000">EDFD2000</option>
+        <option value="EDFD2001">EDFD2001</option>
+        <option value="EDFD2002">EDFD2002</option>
+        <option value="EDHV3000">EDHV3000</option>
+        <option value="EDHV3001">EDHV3001</option>
+    </select>
+
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+    <script src="src/plot.js"></script>
+    
+</body>
+</html>

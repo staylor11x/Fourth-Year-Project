@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>908</width>
+    <height>629</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>871</width>
+         <height>568</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <item>
+         <widget class="QFrame" name="frame">
+          <property name="minimumSize">
+           <size>
+            <width>700</width>
+            <height>550</height>
+           </size>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <widget class="QLabel" name="Heading">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>-10</y>
+             <width>761</width>
+             <height>71</height>
+            </rect>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>18</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
+             <kerning>true</kerning>
+            </font>
+           </property>
+           <property name="text">
+            <string>Area A View</string>
+           </property>
+          </widget>
+          <widget class="QGroupBox" name="groupBox">
+           <property name="geometry">
+            <rect>
+             <x>-10</x>
+             <y>50</y>
+             <width>751</width>
+             <height>80</height>
+            </rect>
+           </property>
+           <property name="title">
+            <string>ToolBar</string>
+           </property>
+           <widget class="QPushButton" name="back_button">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>20</y>
+              <width>91</width>
+              <height>51</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <pointsize>12</pointsize>
+             </font>
+            </property>
+            <property name="text">
+             <string>Back</string>
+            </property>
+           </widget>
+           <widget class="QPushButton" name="MainMenu_button">
+            <property name="geometry">
+             <rect>
+              <x>110</x>
+              <y>20</y>
+              <width>91</width>
+              <height>51</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <pointsize>12</pointsize>
+             </font>
+            </property>
+            <property name="text">
+             <string>Main Menu</string>
+            </property>
+           </widget>
+           <widget class="QPushButton" name="ListView_button">
+            <property name="geometry">
+             <rect>
+              <x>210</x>
+              <y>20</y>
+              <width>91</width>
+              <height>51</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <pointsize>12</pointsize>
+             </font>
+            </property>
+            <property name="text">
+             <string>List View</string>
+            </property>
+           </widget>
+           <widget class="QPushButton" name="Refresh_button">
+            <property name="geometry">
+             <rect>
+              <x>410</x>
+              <y>20</y>
+              <width>91</width>
+              <height>51</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <pointsize>12</pointsize>
+             </font>
+            </property>
+            <property name="text">
+             <string>Refresh</string>
+            </property>
+           </widget>
+           <widget class="QPushButton" name="MapView_button">
+            <property name="geometry">
+             <rect>
+              <x>310</x>
+              <y>20</y>
+              <width>91</width>
+              <height>51</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <pointsize>12</pointsize>
+             </font>
+            </property>
+            <property name="text">
+             <string>Map View</string>
+            </property>
+           </widget>
+          </widget>
+          <widget class="QPushButton" name="PB_EDHV3000">
+           <property name="geometry">
+            <rect>
+             <x>140</x>
+             <y>330</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1008">
+           <property name="geometry">
+            <rect>
+             <x>300</x>
+             <y>440</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDFD2001">
+           <property name="geometry">
+            <rect>
+             <x>140</x>
+             <y>380</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDHV3001">
+           <property name="geometry">
+            <rect>
+             <x>470</x>
+             <y>330</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1001">
+           <property name="geometry">
+            <rect>
+             <x>240</x>
+             <y>170</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QLabel" name="ProcessView_Label">
+           <property name="geometry">
+            <rect>
+             <x>30</x>
+             <y>130</y>
+             <width>621</width>
+             <height>391</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>Graphics/P&amp;IDs/AreaA.png</pixmap>
+           </property>
+           <property name="scaledContents">
+            <bool>true</bool>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1007">
+           <property name="geometry">
+            <rect>
+             <x>300</x>
+             <y>320</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1005">
+           <property name="geometry">
+            <rect>
+             <x>590</x>
+             <y>170</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1004">
+           <property name="geometry">
+            <rect>
+             <x>500</x>
+             <y>170</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDFD2002">
+           <property name="geometry">
+            <rect>
+             <x>500</x>
+             <y>380</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1009">
+           <property name="geometry">
+            <rect>
+             <x>440</x>
+             <y>380</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1002">
+           <property name="geometry">
+            <rect>
+             <x>330</x>
+             <y>170</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDFD2000">
+           <property name="geometry">
+            <rect>
+             <x>120</x>
+             <y>180</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1006">
+           <property name="geometry">
+            <rect>
+             <x>140</x>
+             <y>430</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1003">
+           <property name="geometry">
+            <rect>
+             <x>410</x>
+             <y>170</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="PB_EDSD1000">
+           <property name="geometry">
+            <rect>
+             <x>80</x>
+             <y>180</y>
+             <width>31</width>
+             <height>31</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>Graphics/GreyWarning-modified.png</normaloff>Graphics/GreyWarning-modified.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>31</width>
+             <height>31</height>
+            </size>
+           </property>
+          </widget>
+          <zorder>Heading</zorder>
+          <zorder>groupBox</zorder>
+          <zorder>ProcessView_Label</zorder>
+          <zorder>PB_EDSD1001</zorder>
+          <zorder>PB_EDHV3001</zorder>
+          <zorder>PB_EDFD2001</zorder>
+          <zorder>PB_EDHV3000</zorder>
+          <zorder>PB_EDSD1000</zorder>
+          <zorder>PB_EDSD1008</zorder>
+          <zorder>PB_EDSD1006</zorder>
+          <zorder>PB_EDSD1003</zorder>
+          <zorder>PB_EDSD1002</zorder>
+          <zorder>PB_EDFD2000</zorder>
+          <zorder>PB_EDSD1005</zorder>
+          <zorder>PB_EDSD1004</zorder>
+          <zorder>PB_EDSD1009</zorder>
+          <zorder>PB_EDSD1007</zorder>
+          <zorder>PB_EDFD2002</zorder>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>908</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
